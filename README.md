@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @EricTSR
-- 👀 I’m interested in JS-Frameworks
-- 🌱 I'm currently learning bootstrap, react and node
-- 📫 How to reach me tuchscherer.eric@gmail.com
+
